@@ -1,0 +1,2 @@
+# Sorting
+In this sorting part section i implemented most useful sorting algorithm. Insertion, Bubble and Selection sort are nearly similar. but one the other hand Merge sort and Quick sort are similar. there is a prerequisite to implement Quick and Merge sort and that is Recursion. if any of you want to understand the code and whats going to behid the Quick and Merge sort then lear recursion very deeply. if you learn a good level of recursion then you will understand Quick and Merge sort very well.
